@@ -1,4 +1,10 @@
+profile-title: 🇩🇪 НЕМЕЦ VPN 🇩🇪
+#profile-update-interval: 7
+#support-url: vk.com
+#profile-web-page-url: vk.com
+#announce: ВПН ДЛЯ 7Б КЛАССА 🫪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozN3EwMTdBZWE1eVZDOS1tZzU1ckg2M0ZHN2Y5NzIzMA==@0.0.0.0:1234#%D0%9E%D1%81%D1%82%D0%B0%D0%BB%D0%BE%D1%81%D1%8C%2029%20%D0%B4.
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozN3EwMTdBZWE1eVZDOS1tZzU1ckg2M0ZHN2Y5NzIzMA==@0.0.0.0:1234#%E2%9A%A0%EF%B8%8F%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D1%8C%D1%82%D0%B5%20%D0%BF%D0%B8%D0%BD%D0%B3%20%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%20%D0%BF%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%D0%BC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozN3EwMTdBZWE1eVZDOS1tZzU1ckg2M0ZHN2Y5NzIzMA==@0.0.0.0:1234#%E2%9A%A0%EF%B8%8F%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%20%D0%BD%D0%B5%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82%E2%9D%93%20%D0%92%D1%8B%D0%B1%D0%B5%D1%80%D0%B8%D1%82%D0%B5%20%D0%B4%D1%80%D1%83%D0%B3%D0%BE%D0%B9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozN3EwMTdBZWE1eVZDOS1tZzU1ckg2M0ZHN2Y5NzIzMA==@0.0.0.0:1234#%E2%9D%A4%EF%B8%8F%20%40TelegaVPN_bot%20%E2%9D%A4%EF%B8%8F
@@ -26,3 +32,32 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozN3EwMTdBZWE1eVZDOS1tZzU1ckg2M0ZHN2Y5NzIzMA=
 vless://0ca5bbe7-6d74-4709-8b76-69f362b09ffc@84.201.132.179:8443?encryption=none&type=xhttp&path=%2Fapi%2Fv2%2Fupdates&mode=auto&security=reality&sni=01.img.avito.st&fp=chrome&pbk=8Wb7DfK3p97KYIBDUxTZRHkG8PomTfA28gJ2qdFA808&spx=%2F#%F0%9F%87%AA%F0%9F%87%BA%20%D0%92%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA%201%20xHTTP
 vless://0ca5bbe7-6d74-4709-8b76-69f362b09ffc@89.208.221.6:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ir-2.ozone.ru&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#%F0%9F%87%AA%F0%9F%87%BA%20%D0%92%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA%204
 vless://0ca5bbe7-6d74-4709-8b76-69f362b09ffc@95.163.211.121:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ir-2.ozone.ru&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#%F0%9F%87%AA%F0%9F%87%BA%20%D0%92%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA%203
+hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@yy.xbs54as9c6.ru:443?security=tls&insecure=1&sni=rbc.ru#Tuman-Yandex-H2-443
+hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@yy.xbs54as9c6.ru:8002?security=tls&insecure=1&sni=rbc.ru#Tuman-Yandex-H2-8002
+hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@yy.xbs54as9c6.ru:8041?security=tls&insecure=1&sni=market.yandex.ru#Tuman-Yandex-H2-8041
+hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@tn.xbs54as9c6.ru:443?security=tls&insecure=1&sni=live.ok.ru#Tuman-Timeweb-H2-443
+hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@tn.xbs54as9c6.ru:7081?security=tls&insecure=1&sni=rzd.ru#Tuman-Timeweb-H2-7081
+hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@tg.xbs54as9c6.ru:443?security=tls&insecure=1&sni=live.ok.ru#Tuman-Gaming-H2-443
+hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@tg.xbs54as9c6.ru:7081?security=tls&insecure=1&sni=rzd.ru#Tuman-Gaming-H2-7081
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@yy.xbs54as9c6.ru:8443?path=%2Fstream&security=&encryption=none&host=rbc.ru&type=ws#Tuman-Yandex-WS-8443
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@yy.xbs54as9c6.ru:7000?path=%2Fstream&security=&encryption=none&host=market.yandex.ru&type=ws#Tuman-Yandex-WS-7000
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@st.xbs54as9c6.ru:443?path=%2Fstream&security=&encryption=none&host=rbc.ru&type=ws#Tuman-Selectel-WS-443
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@st.xbs54as9c6.ru:7000?path=%2Fstream&security=&encryption=none&host=market.yandex.ru&type=ws#Tuman-Selectel-WS-7000
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@tn.xbs54as9c6.ru:2200?path=%2Fv1&security=&encryption=none&host=rzd.ru&type=ws#Tuman-Timeweb-WS-2200
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@tn.xbs54as9c6.ru:4100?path=%2Fv1&security=&encryption=none&host=live.ok.ru&type=ws#Tuman-Timeweb-WS-4100
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@tg.xbs54as9c6.ru:2200?path=%2Fv1&security=&encryption=none&host=rzd.ru&type=ws#Tuman-Gaming-WS-2200
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@vw.xbs54as9c6.ru:7443?security=reality&encryption=none&pbk=fbv5wVdKhLJFpmUQy2Q0ZnKHaQrFIxwkQGQTnMRaFh8&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=a1#Tuman-VKCloud-Reality
+hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@yy.xbs54as9c6.ru:443?security=tls&insecure=1&sni=rbc.ru#Tuman-Yandex-H2-443-FT
+hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@yy.xbs54as9c6.ru:8002?security=tls&insecure=1&sni=rbc.ru#Tuman-Yandex-H2-8002-FT
+hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@yy.xbs54as9c6.ru:8041?security=tls&insecure=1&sni=market.yandex.ru#Tuman-Yandex-H2-8041-FT
+hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@tn.xbs54as9c6.ru:443?security=tls&insecure=1&sni=live.ok.ru#Tuman-Timeweb-H2-443-FT
+hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@tn.xbs54as9c6.ru:7081?security=tls&insecure=1&sni=rzd.ru#Tuman-Timeweb-H2-7081-FT
+hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@tg.xbs54as9c6.ru:443?security=tls&insecure=1&sni=live.ok.ru#Tuman-Gaming-H2-443-FT
+hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@tg.xbs54as9c6.ru:7081?security=tls&insecure=1&sni=rzd.ru#Tuman-Gaming-H2-7081-FT
+vless://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@yy.xbs54as9c6.ru:8443?path=%2Fstream&security=&encryption=none&host=rbc.ru&type=ws#Tuman-Yandex-WS-8443-FT
+vless://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@yy.xbs54as9c6.ru:7000?path=%2Fstream&security=&encryption=none&host=market.yandex.ru&type=ws#Tuman-Yandex-WS-7000-FT
+vless://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@st.xbs54as9c6.ru:443?path=%2Fstream&security=&encryption=none&host=rbc.ru&type=ws#Tuman-Selectel-WS-443-FT
+vless://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@st.xbs54as9c6.ru:7000?path=%2Fstream&security=&encryption=none&host=market.yandex.ru&type=ws#Tuman-Selectel-WS-7000-FT
+vless://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@tn.xbs54as9c6.ru:2200?path=%2Fv1&security=&encryption=none&host=rzd.ru&type=ws#Tuman-Timeweb-WS-2200-FT
+vless://82b5b465-3307-4a25-acef-abd1649bbedf@158.160.82.8:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=gwuAehnMX6e-n1fxIenfjx43j3qXXi7Cb4wfnW5VyBQ&sid=f04729f65b9ea261#%F0%9F%87%AB%F0%9F%87%AE%20SavkaFIN
+vless://b58a4390-6aba-451a-8010-61916ebe6bb3@111.88.146.74:25462?type=tcp&security=reality&encryption=none&fp=chrome&pbk=PKfGbpZj-i7I76rfgEDgJIsXZ_TqE0B2ntNN6g3qTXI&sid=9a694cfa8ebd15&sni=www.m.vk.ru#%F0%9F%87%B5%F0%9F%87%B0%20Pakistan%20%5BSNI-RU%5D%20www.m.vk.ru
