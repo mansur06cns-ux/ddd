@@ -1,4 +1,4 @@
-profile-title: 🇩🇪 НЕМЕЦ VPN 🇩🇪
+profile-title: 🇩🇪 NEMEC VPN
 #profile-update-interval: 7
 #support-url: vk.com
 #profile-web-page-url: vk.com
